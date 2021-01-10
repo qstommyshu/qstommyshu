@@ -5,11 +5,11 @@
   currently a second year student in software Engineering McMaster.
   
   Thechnologies:
-  <li>
-    Python (Flask and Django), Java, Javascript.
-    <br>
-    more to add on .....(I'm thinking about formating🤔)
-  </li>
+  <ul>
+    <li>Python (Flask and Django), Java, Javascript.</li>
+      <br>
+    <li>more to add on .....(I'm thinking about formating🤔)</li>
+  </ul>
   
  Cheers,
  <br>
