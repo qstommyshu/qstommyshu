@@ -1,5 +1,19 @@
 <h1> Hello World, 👋 <h1>
 
+<p>I'm a future professional Software Engineer 
+  <br>
+  currently a second year student in software Engineering McMaster.
+  
+  Thechnologies:
+  <li>
+    * Python (Flask and Django), Java, Javascript.
+    *more to add on .....(I'm thinking about formating🤔)
+  </li>
+  
+ Cheers,
+ <br>
+ Tommy Shu
+ </p>
 <!--
 **qstommyshu/qstommyshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
