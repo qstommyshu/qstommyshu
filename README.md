@@ -7,7 +7,7 @@
   Thechnologies:
   <li>
     * Python (Flask and Django), Java, Javascript.
-    *more to add on .....(I'm thinking about formating🤔)
+    * more to add on .....(I'm thinking about formating🤔)
   </li>
   
  Cheers,
