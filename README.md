@@ -40,3 +40,4 @@
  <br>
  Tommy Shu
  </p>
+  <a href="https://www.linkedin.com/in/qi-shu-332786193/"> <img align="center" src="https://img.icons8.com/color/linkedin" alt="kevan-yang" height="40" width="40" />
