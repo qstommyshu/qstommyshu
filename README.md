@@ -31,11 +31,11 @@
   -----------------------------
   📈 My GitHub Stats
  <div align="center">
-<img  alt ="qstommyshu's Github Stats"src="https://github-readme-stats.vercel.app/api?username=qstommyshu&show_icons=true&theme=tokyonight">
+<img  alt ="qstommyshu's Github Stats"src="https://github-readme-stats.vercel.app/api?username=qstommyshu&show_icons=true&theme=Gradient">
 </div>
   <br>
 <div align="center">
-<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstommyshu&layout=compact&theme=tokyonight">
+<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstommyshu&layout=compact&theme=Gradient">
 </div>
 
  Cheers,
