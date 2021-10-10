@@ -29,10 +29,10 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
   -----------------------------
-  📈 My GitHub Stats
+<!--   📈 My GitHub Stats
  <div align="center">
 <img  alt ="qstommyshu's Github Stats"src="https://github-readme-stats.vercel.app/api?username=qstommyshu&show_icons=true&theme=vue">
-</div>
+</div> -->
   <br>
 <div align="center">
 <img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstommyshu&layout=compact&theme=vue">
