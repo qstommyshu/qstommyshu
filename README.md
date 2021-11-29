@@ -21,7 +21,9 @@
   </ul>
   
 <!--   - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Three.js
+  <br>
+  check this out https://qstommyshu.github.io
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
@@ -43,4 +45,4 @@
  Tommy Shu
  </p>
   <br>
-  <a href="https://www.linkedin.com/in/qi-shu-332786193/"> <img align="center" src="https://img.icons8.com/color/linkedin" alt="kevan-yang" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/qi-shu/"> <img align="center" src="https://img.icons8.com/color/linkedin" alt="kevan-yang" height="40" width="40" />
