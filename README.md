@@ -2,7 +2,7 @@
 
 <p>This is Tommy, a future professional Software Engineer !!!! 
   <br>
-  currently a second year student in computer science McMaster. 
+  currently a third year student in computer science McMaster. 
   <br>
   Passionate about new technologies, interested in AI, web dev and software engineering.
 
