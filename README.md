@@ -24,7 +24,7 @@
   </ul>
   
 <!--   - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning React, Three.js and multiple AWS services
+- 🌱 I’m currently learning React, Three.js and multiple AWS services along with GraphQL
   <br>
   check this out https://qstommyshu.github.io
 <!-- - 👯 I’m looking to collaborate on ...
