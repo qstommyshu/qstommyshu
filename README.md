@@ -2,7 +2,8 @@
 
 <p>This is Tommy, a future professional Software Engineer !!!! 
   <br>
-  currently a third year student in computer science McMaster. 
+<!--   currently a third year student in computer science McMaster.  -->
+  currently a software developer in Test in CaseWare International.
   <br>
   Passionate about new technologies, interested in AI, web dev and software engineering.
 
