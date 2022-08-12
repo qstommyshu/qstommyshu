@@ -3,7 +3,7 @@
 <p>This is Tommy, a future professional Software Engineer !!!! 
   <br>
 <!--   currently a third year student in computer science McMaster.  -->
-  currently a Software Developer at <a href="https://www.caseware.com/" target="#">CaseWare International Inc</a>.
+  currently a Software Developer at <a href="https://www.tdsecurities.com/ca/en" target="#">TD Securities</a>.
   <br>
   Passionate about new technologies, interested in Cloud, AI, web dev and software engineering.
 
@@ -24,7 +24,7 @@
   </ul>
   
 <!--   - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning React, Three.js and multiple AWS services along with GraphQL
+- 🌱 I’m currently learning React, Java Spring and along with GraphQL
   <br>
   check this out https://qstommyshu.github.io
 <!-- - 👯 I’m looking to collaborate on ...
