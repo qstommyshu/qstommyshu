@@ -5,11 +5,12 @@
 <!--   currently a third year student in computer science McMaster.  -->
   Previous Software Developer Intern at <a href="https://www.tdsecurities.com/ca/en" target="#">TD Securities</a> and <a href="https://www.caseware.com/ca">Caseware</a>.
   <br>
-  Passionate about new technologies, interested in Cloud, AI, web dev and software engineering.
+  Passionate about new technologies, interested in Cloud, AI and software engineering (particular interested in engineering using rust).
 
 ------------------------------------
   Thechnologies and tools:
   <ul>
+  <a href="https://www.rust-lang.org/" target="#"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/rust.svg" alt="cypress" width="40" height="40"/> </a>
      <a href="https://www.python.org" target="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="#"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="80" height="40"/> </a>
