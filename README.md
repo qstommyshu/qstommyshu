@@ -41,7 +41,7 @@
 </div> -->
   <br>
 <div align="center">
-<img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstommyshu&layout=compact&theme=vue">
+<!-- <img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstommyshu&layout=compact&theme=vue"> -->
 </div>
 
  Cheers,
