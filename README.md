@@ -25,7 +25,7 @@
   </ul>
   
 <!--   - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Rust, Java Spring and along with GraphQL
+- 🌱 I’m currently learning Rust and React
   <br>
   check this out https://qstommyshu.github.io
 <!-- - 👯 I’m looking to collaborate on ...
