@@ -5,7 +5,7 @@
 <!--   currently a third year student in computer science McMaster.  -->
   Previous Software Developer Intern at <a href="https://www.tdsecurities.com/ca/en" target="#">TD Securities</a> and <a href="https://www.caseware.com/ca">Caseware</a>.
   <br>
-  Passionate about new technologies, interested in Cloud, AI and software engineering (particular interested in engineering using rust).
+  Passionate about new technologies, interested in Cloud, AI and software engineering.
 
 ------------------------------------
   Thechnologies and tools:
