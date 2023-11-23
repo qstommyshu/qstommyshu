@@ -39,14 +39,12 @@
  <div align="center">
 <img  alt ="qstommyshu's Github Stats"src="https://github-readme-stats.vercel.app/api?username=qstommyshu&show_icons=true&theme=vue">
 </div> -->
-  <br>
 <div align="center">
 <!-- <img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstommyshu&layout=compact&theme=vue"> -->
 </div>
-
  Cheers,
  <br>
  Tommy Shu
  </p>
-  <br>
-  <a href="https://www.linkedin.com/in/qi-shu/"> <img align="center" src="https://img.icons8.com/color/linkedin" alt="kevan-yang" height="40" width="40" />
+<!--   <a href="https://www.linkedin.com/in/qi-shu/"> <img align="center" src="https://img.icons8.com/color/linkedin" alt="kevan-yang" height="40" width="40" />
+ -->
