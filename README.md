@@ -5,7 +5,7 @@
 <!--   currently a third year student in computer science McMaster.  -->
   Previous Software Developer Intern at <a href="https://www.tdsecurities.com/ca/en" target="#">TD Securities</a> and <a href="https://www.caseware.com/ca">Caseware</a>.
   <br>
-  Passionate about new technologies, interested in Cloud, AI and software engineering.
+  Passionate about new technologies, interested in Databases, Cloud and software engineering.
 
 ------------------------------------
   Thechnologies and tools:
@@ -26,6 +26,7 @@
   
 <!--   - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Rust
+- Casually reading DBMS by by R. Ramakrishnan, J. Gehrke
   <br>
   check this out https://qstommyshu.github.io
 <!-- - 👯 I’m looking to collaborate on ...
