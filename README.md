@@ -15,8 +15,8 @@
   <a href="https://www.java.com" target="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="#"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="80" height="40"/> </a>
   <a href="https://www.cypress.io/" target="#"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/en/" target="#"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="100" height="40"/> </a>
-  <a href="https://reactjs.org/" target="#"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+<!--   <a href="https://nodejs.org/en/" target="#"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="100" height="40"/> </a>
+  <a href="https://reactjs.org/" target="#"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="nodejs" width="40" height="40"/> </a> -->
   <a href="https://git-scm.com/" target="#"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="nodejs" width="80" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="#"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="nodejs" width="80" height="40"/> </a>
