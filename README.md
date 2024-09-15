@@ -19,9 +19,7 @@
   <a href="https://reactjs.org/" target="#"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="nodejs" width="40" height="40"/> </a> -->
   <a href="https://git-scm.com/" target="#"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="nodejs" width="80" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="#"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="nodejs" width="80" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="#"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/amazonaws.svg" alt="java" width="40" height="40"/> </a> 
-    
+  <a href="https://www.mysql.com/" target="#"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="nodejs" width="80" height="40"/> </a>    
   </ul>
   
 <!--   - 🔭 I’m currently working on ... -->
