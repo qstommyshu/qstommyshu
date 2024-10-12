@@ -35,6 +35,7 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
   -----------------------------
+  ![ qstommyshu's top langs ](https://github-readme-stats.vercel.app/api/top-langs?username=qstommyshu&&hide=tex,jupyter%20notebook,mdx,scss)
 <!--   📈 My GitHub Stats
  <div align="center">
 <img  alt ="qstommyshu's Github Stats"src="https://github-readme-stats.vercel.app/api?username=qstommyshu&show_icons=true&theme=vue">
