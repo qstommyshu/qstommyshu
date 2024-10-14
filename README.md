@@ -1,6 +1,6 @@
 <h2> Hello World, 👋 <h2>
 
-<p>This is Tommy, a future professional Software Engineer !!!! 
+<p>This is Tommy, a professional Software Engineer !!!! 
   <br>
 <!--   currently a third year student in computer science McMaster.  -->
   Previous Software Developer Intern at <a href="https://www.tdsecurities.com/ca/en" target="#">TD Securities</a> and <a href="https://www.caseware.com/ca">Caseware</a>.
