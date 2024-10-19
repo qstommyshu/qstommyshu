@@ -24,7 +24,8 @@
   
 <!--   - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Rust
-- Recently reading <a href="https://beej.us/guide/bgnet/html/split/index.html">Beej's Guide to network programming</a> and <a href="https://rust-for-rustaceans.com/">Rust for Rustaceans</a>
+- Recently finished reading <a href="https://beej.us/guide/bgnet/html/split/index.html">Beej's Guide to network programming</a>
+- Currently reading <a href="https://rust-for-rustaceans.com/">Rust for Rustaceans</a>
 - Casually reading DBMS by by R. Ramakrishnan, J. Gehrke
   <br>
   check this out https://qstommyshu.github.io
