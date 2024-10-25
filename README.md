@@ -67,8 +67,7 @@
 
 </td><td valign="top" width="33%">
 
-
- 
+ ###
   ![ qstommyshu's top langs ](https://github-readme-stats.vercel.app/api/top-langs?username=qstommyshu&&hide=tex,jupyter%20notebook,mdx,scss)
 
 </td></tr></table>  
