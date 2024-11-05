@@ -1,6 +1,6 @@
 <h2> Hello World, 👋 </h2>
 
-This is Tommy, a professional Software Engineer and a passionate open source developer !!!!
+This is Tommy, a professional Software Engineer and a passionate Open Source developer !!!!
   <br>
 <!--   currently a third year student in computer science McMaster.  -->
   Previous Software Developer Intern at <a href="https://www.tdsecurities.com/ca/en" target="#">TD Securities</a> and <a href="https://www.caseware.com/ca">Caseware</a>.
