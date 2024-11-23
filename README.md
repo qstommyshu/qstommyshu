@@ -73,7 +73,7 @@ This is Tommy, a professional Software Engineer and a passionate Open Source dev
 </td></tr></table>  
   
 <!--   - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning OS (working on a writing an OS with Rust)
+- 🌱 I’m currently learning OS (working on a writing an OS with Rust), and gRPC for distributed systems
 - Recently finished reading <a href="https://beej.us/guide/bgnet/html/split/index.html">Beej's Guide to network programming</a> (Very good introductory book for network programming)
 - Currently reading <a href="https://rust-for-rustaceans.com/">Rust for Rustaceans</a>
 - Casually reading DBMS by by R. Ramakrishnan, J. Gehrke
