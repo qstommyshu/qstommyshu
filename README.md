@@ -78,8 +78,6 @@ This is Tommy, a professional Software Engineer and a passionate Open Source dev
 - Currently reading <a href="https://rust-for-rustaceans.com/">Rust for Rustaceans</a>
 - Casually reading DBMS by by R. Ramakrishnan, J. Gehrke
   <br>
-  check this out https://qstommyshu.github.io
-
 <br/>  
  Cheers,
  <br>
