@@ -3,7 +3,7 @@
 This is Tommy, a professional Software Engineer and a passionate Open Source developer !!!!
   <br>
 <!--   currently a third year student in computer science McMaster.  -->
-  Previous Software Developer Intern at <a href="https://www.tdsecurities.com/ca/en" target="#">TD Securities</a> and <a href="https://www.caseware.com/ca">Caseware</a>.
+  Previous Software Developer at <a href="https://www.tdsecurities.com/ca/en" target="#">TD Securities</a> and <a href="https://www.caseware.com/ca">Caseware</a>.
   <br>
   Passionate about new technologies, interested in AI, Cloud, Databases and Software Engineering Practices.
 <!-- - 👯 I’m looking to collaborate on ...
