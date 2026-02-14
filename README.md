@@ -12,12 +12,9 @@ This is Tommy, Software Engineer <a href="https://www.expertise.ai/">@Expertise 
 - 📫 How to reach me: dev@qstommyshu.com -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
-<!--   📈 My GitHub Stats
- <div align="center">
-<img  alt ="qstommyshu's Github Stats"src="https://github-readme-stats.vercel.app/api?username=qstommyshu&show_icons=true&theme=vue">
-</div> -->
+
 <div align="center">
-<!-- <img alt ="Top Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=qstommyshu&layout=compact&theme=vue"> -->
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ## My Skill Set  
