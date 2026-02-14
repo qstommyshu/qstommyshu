@@ -1,6 +1,6 @@
 <h2> Hello World, 👋 </h2>
 
-This is Tommy, Member of technical stuff <a href="https://www.expertise.ai/">@Expertise AI</a> and a tech savvy.
+This is Tommy, Member of technical stuff <a href="https://www.expertise.ai/">@Expertise AI</a>, also a tech savvy.
 
 Passionate about new technologies, your DO ANYTHING software engineer, curiosity is my power🔋 source.
 
