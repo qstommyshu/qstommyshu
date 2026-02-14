@@ -20,7 +20,7 @@ Not much to say, talk is cheap, I'll show you my ~~AI agent's~~ code.
 <!--   - 🔭 I’m currently working on ... -->
 - 🔭 I'm recently playing around with OpenClaw 🦞
 - 🌱 I’m exploring how to use Claude Code more efficiently
-- 🤖 Occasionally contribute to open source for fun
+- 🤖 Occasionally contribute to Open Source projects for fun
 <!-- - 🌱 I’m currently learning Database implementations, and gRPC for distributed systems (checkout [my blog posts](https://qstommyshu.github.io/posts/gRPC-Introduction-(chapter-1)/)) -->
 <!-- - Recently finished reading <a href="https://beej.us/guide/bgnet/html/split/index.html">Beej's Guide to network programming</a> (Very good introductory book for network programming) -->
 <!-- - Currently reading <a href="https://rust-for-rustaceans.com/">Rust for Rustaceans</a>, <a href="https://www.databass.dev/">Database Internals</a> -->
