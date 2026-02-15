@@ -18,8 +18,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d-settings.json
 
-      - name: Remove pie chart from SVG
-        run: python3 .github/remove-pie-chart.py profile-3d-contrib/profile-night-green.svg
+      - name: Modify pie chart labels in SVG
+        run: python3 .github/modify-pie-chart.py profile-3d-contrib/profile-night-green.svg
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v5
