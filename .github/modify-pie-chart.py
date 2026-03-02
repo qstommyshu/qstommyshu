@@ -7,7 +7,7 @@ svg_path = sys.argv[1] if len(sys.argv) > 1 else "profile-3d-contrib/profile-nig
 with open(svg_path, "r") as f:
     svg = f.read()
 
-label = "languages used in primary repo are not displayed."
+label = "languages used in private repo are not displayed."
 
 # Replace the legend text label: >other< -> >new label<
 svg = svg.replace(">other<", f">{label}<")
