@@ -2,7 +2,7 @@
 
 This is Tommy, Member of technical stuff <a href="https://www.expertise.ai/">@Expertise AI</a>, also a tech savvy.
 
-Passionate about new technologies, your DO ANYTHING ~~software engineer~~ member of technical stuff, curiosity is my power🔋 source.
+Passionate about new technologies, your DO ANYTHING software engineer, curiosity is my power🔋 source.
 
 Not much to say, talk is cheap, I'll show you my ~~AI agent's~~ code.
 <!-- - 👯 I’m looking to collaborate on ...
