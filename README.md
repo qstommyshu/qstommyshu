@@ -19,7 +19,7 @@ Not much to say, talk is cheap, I'll show you my ~~AI agent's~~ code.
   
 <!--   - 🔭 I’m currently working on ... -->
 - 🔭 I'm recently playing around with OpenClaw 🦞 and its variations (i.e. IronClaw)
-- 🌱 I’m exploring how to do Agentic Engineering more efficiently
+- 🌱 I’m exploring Agentic Engineering best practice
 - 🤖 Occasionally contribute to Open Source projects for fun
 <!-- - 🌱 I’m currently learning Database implementations, and gRPC for distributed systems (checkout [my blog posts](https://qstommyshu.github.io/posts/gRPC-Introduction-(chapter-1)/)) -->
 <!-- - Recently finished reading <a href="https://beej.us/guide/bgnet/html/split/index.html">Beej's Guide to network programming</a> (Very good introductory book for network programming) -->
