@@ -18,7 +18,7 @@ Not much to say, talk is cheap, I'll show you my ~~AI agent's~~ code.
 
   
 <!--   - 🔭 I’m currently working on ... -->
-- 🔭 I'm recently playing around with OpenClaw 🦞
+- 🔭 I'm recently playing around with OpenClaw 🦞 and its variations (i.e. IronClaw).
 - 🌱 I’m exploring how to use Claude Code more efficiently
 - 🤖 Occasionally contribute to Open Source projects for fun
 <!-- - 🌱 I’m currently learning Database implementations, and gRPC for distributed systems (checkout [my blog posts](https://qstommyshu.github.io/posts/gRPC-Introduction-(chapter-1)/)) -->
