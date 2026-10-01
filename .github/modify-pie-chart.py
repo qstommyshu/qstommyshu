@@ -1,11 +1,11 @@
 """Replace 'other' language label in the generated 3D contribution SVG."""
+
 import re
-import sys
 
-svg_path = sys.argv[1] if len(sys.argv) > 1 else "profile-3d-contrib/profile-night-green.svg"
+from svg_utils import get_svg_path, load_svg, save_svg
 
-with open(svg_path, "r") as f:
-    svg = f.read()
+svg_path = get_svg_path()
+svg = load_svg(svg_path)
 
 label = "Languages used in private repos are not displayed"
 
@@ -15,7 +15,6 @@ svg = svg.replace(">other<", f">{label}<")
 # Replace the pie slice tooltip: >other NNNN</title> -> >new label NNNN</title>
 svg = re.sub(r">other (\d+)</title>", rf">{label} \1</title>", svg)
 
-with open(svg_path, "w") as f:
-    f.write(svg)
+save_svg(svg_path, svg)
 
 print("Replaced 'other' labels successfully")
